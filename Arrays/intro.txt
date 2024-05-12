@@ -1,0 +1,3 @@
+array=>collection of similar element
+       collection of homogenous data type
+       
